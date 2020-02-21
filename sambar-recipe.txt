@@ -1,0 +1,3 @@
+mix dal, water
+heat it
+add some spices
